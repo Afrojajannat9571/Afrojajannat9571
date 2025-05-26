@@ -13,7 +13,7 @@
 - GitHub, VS Code, front-end tools  
 - How I juggle coding and creativity!
 
-📫 Reach me at: abiharahman78@gmail.com  
+📫   
 🌍 Live from: Bangladesh 🇧🇩  
 
 ---
